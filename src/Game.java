@@ -1,5 +1,3 @@
-import logic.Board;
-
 public class Game {
     private enum GameState {
         ONGOING,
